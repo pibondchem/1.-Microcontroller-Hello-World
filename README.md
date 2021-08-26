@@ -13,6 +13,8 @@ Notes:
  
 3. The programs provided for the two microcontrollers are similar, but not identical.  This is due to the amount of time I am willing to put into these programs.
 
-4. As the professor/lab director/etc. for the classes where the labs were used, I was always available to answer questions and help troubleshoot problems.  I have not added a lot of detail or clarification to these public handouts, so you may run into minor problems.  I assume that you are reading the documentation found on the Arduino or Adafruit websites -- this should help you navigate most issues.  You are welcome to email me with questions/problems, too.
+4. If you download .tex files, you will also need the pics folder to compile the documents.
 
-5. Please let me know if you build any of these projects.
+5. As the professor/lab director/etc. for the classes where the labs were used, I was always available to answer questions and help troubleshoot problems.  I have not added a lot of detail or clarification to these public handouts, so you may run into minor problems.  I assume that you are reading the documentation found on the Arduino or Adafruit websites -- this should help you navigate most issues.  You are welcome to email me with questions/problems, too.
+
+6. Please let me know if you build any of these projects.
