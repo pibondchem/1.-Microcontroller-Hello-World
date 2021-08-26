@@ -84,6 +84,7 @@ while True:  # This loop continues forever.
     lcd.message = ('\n{}  seconds '.format(int(now-start)))
     # Wait 5s
     time.sleep(5)
+    lcd.cursor = False    
     # Display blinking cursor
     lcd.clear()
     lcd.blink = True
@@ -93,7 +94,6 @@ while True:  # This loop continues forever.
     # Wait 5s
     time.sleep(5)
     lcd.blink = False
-    lcd.cursor = False
     lcd.clear()
     # Create message to scroll
     scroll_msg = "Scroll -->"
