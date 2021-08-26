@@ -31,6 +31,8 @@
 
     See https://learn.adafruit.com/character-lcds/python-circuitpython
     for more information.
+    More information on commands associated with the lcd class may be found
+    at https://circuitpython.readthedocs.io/projects/charlcd/en/latest/api.html
 
 """
 import time
